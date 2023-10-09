@@ -1,0 +1,3 @@
+{
+  "com.epam.monobankgptdemo.MetricsCollector": "com.epam.monobankgptdemo.OptimisticMetricsCollector"
+}
